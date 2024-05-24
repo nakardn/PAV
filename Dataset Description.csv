@@ -1,0 +1,14 @@
+Column,Description
+Average Plant Size (m²),The typical size (area) occupied by a single  plant in the field.
+Bee_1 Pollination Activity (bees/m²/min),The average number of bees (from type 1) visiting flowers per square meter per minute.
+bee_2 Pollination Activity (bees/m²/min),The average number of bees (from type 2) visiting flowers per square meter per minute.
+bee_3 Pollination Activity (bees/m²/min),The average number of bees (from type 3) visiting flowers per square meter per minute.
+bee_4 Pollination Activity (bees/m²/min),The average number of bees (from type 4) visiting flowers per square meter per minute.
+Maximum Upper Bloom Temperature (°C),The highest recorded daily air temperature within the optimal range during the bloom season.
+Minimum Upper Bloom Temperature (°C),The lowest recorded daily air temperature within the optimal range during the bloom season.
+Average Upper Bloom Temperature (°C),The average daily air temperature within the optimal range during the bloom season.
+Maximum Lower Bloom Temperature (°C),The highest recorded daily air temperature below the optimal range during the bloom season.
+Minimum Lower Bloom Temperature (°C),The lowest recorded daily air temperature below the optimal range during the bloom season.
+Average Lower Bloom Temperature (°C),The average daily air temperature below the optimal range during the bloom season.
+Total Rainy Days,The total number of days with measurable precipitation (greater than zero) during the bloom season.
+Proportion of Rainy Days,The average number of days with measurable precipitation per day during the bloom season (a value between 0 and 1).
